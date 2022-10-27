@@ -1,6 +1,6 @@
 {
     "assignments" : [
-        {" name": "Finish project", "complete": false, "tag": "math" },
+        {"name": "Finish project", "complete": false, "tag": "math" },
         { "name": "Read Chapter 4", "complete": false, "tag": "science" },
         { "name": "Turn in Homework", "complete": false, "tag": "math" },
         { "name": "Vue Js Tutorial", "complete": false, "tag": "programming" }
